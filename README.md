@@ -1,6 +1,6 @@
-# RemoveBG
+# RemoveRite
 
-**RemoveBG** is a simple web application that removes the background from any image file. It uses Flask as the web framework, rembg for background removal, and Pillow for image processing. The app is containerized using Docker for easy deployment.
+**RemoveRite** is a simple web application that removes the background from any image file. It uses Flask as the web framework, rembg for background removal, and Pillow for image processing. The app is containerized using Docker for easy deployment.
 
 ## Features
 
