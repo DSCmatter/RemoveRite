@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "flask": "^0.2.10",
-    "pillow": "^0.0.9",
-    "rembg": "^1.0.2"
-  }
-}
