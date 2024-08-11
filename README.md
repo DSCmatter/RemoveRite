@@ -12,7 +12,7 @@
 
 - Python 3.8+ or current version
 - Flask
-- rembg Source[https://github.com/codediodeio/rembg-webapp-tutorial]
+- rembg [Source](https://github.com/danielgatis/rembg)
 - Pillow
 - Docker (for containerization)
 
