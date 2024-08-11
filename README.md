@@ -12,7 +12,7 @@
 
 - Python 3.8+ or current version
 - Flask
-- rembg
+- rembg [Source](https://github.com/danielgatis/rembg)
 - Pillow
 - Docker (for containerization)
 
