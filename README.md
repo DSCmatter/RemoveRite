@@ -56,4 +56,4 @@ The application will be accessible at http://localhost:5000/.
 - Download the image with the background removed.
 
 ### Note: Using Docker is not required to use the app.
-### Since, it is using [rembg](https://github.com/danielgatis/rembg) it will download some depenedency of around 180MB, therefore not eligible for usual use but for only educational pourposes.
+### Since, it is using [rembg](https://github.com/danielgatis/rembg) it will download some depenedency of around 180MB, therefore not eligible for usual use but for only educational purposes.
