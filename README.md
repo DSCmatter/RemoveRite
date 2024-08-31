@@ -24,7 +24,7 @@
 ### Clone the Repository
 
 ```
-git clone https://github.com/yourusername/removebg.git
+git clone https://github.com/DSCmatter/removebg.git
 cd removebg
 ```
 
