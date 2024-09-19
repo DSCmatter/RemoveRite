@@ -3,7 +3,7 @@
 **RemoveRite** is a simple web application that removes the background from any image file. It uses Flask as the web framework, rembg for background removal, and Pillow for image processing. The app is containerized using Docker for easy deployment.
 
 > [!NOTE]
-> Using Docker is not required to use the app. However, since the app relies on [rembg](https://github.com/danielgatis/rembg), it will download dependencies totaling around 180MB. Therefore, it is not suited for typical use but is intended for educational purposes only.
+> Using Docker is not required to use the app. However, since the app relies on [rembg](https://github.com/danielgatis/rembg), it will download dependencies totaling around 180MB whenever it is used. Therefore, it is not suited for typical use but is intended for educational purposes only.
 
 ## Features
 
